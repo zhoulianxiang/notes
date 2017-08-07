@@ -1,3 +1,4 @@
 - 查看：wavemon
 - 连接：wpa_cli
-- arch中的wifi-menu很好用，但一时没有找到arch以外有类似的
+- 配置：/etc/wpa_supplicant/wpa_supplicant.conf
+- arch中的wifi-menu很好用，但一时没有找到arch以外有类似的。有肯定是有的，比如各种发行版本安装的时候连接wifi的界面，retropie的wifi连接界面，看上去都差不多
