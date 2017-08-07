@@ -1,0 +1,3 @@
+- 查看：wavemon
+- 连接：wpa_cli
+- arch中的wifi-menu很好用，但一时没有找到arch以外有类似的
