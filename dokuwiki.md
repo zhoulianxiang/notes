@@ -26,7 +26,7 @@ https://www.dokuwiki.org/install
 
 用刚刚设置的管理员账号登录，开始设置
 
-### user
+### Admin -> User Manager
 
 增加一个非admin日常用户
 
