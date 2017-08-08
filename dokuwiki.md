@@ -6,13 +6,9 @@ https://www.dokuwiki.org/
 
     wget https://download.dokuwiki.org/src/dokuwiki/dokuwiki-stable.tgz
 
-### apache2
+### apache2 & php5
 
-    sudo apt-get install apache2
-
-### php5
-
-    sudo apt-get install php5
+    sudo apt-get install apache2 php5
 
 ## install
 
@@ -32,13 +28,42 @@ https://www.dokuwiki.org/install
 
 ### user
 
-私人wiki，就一个管理员账户就可以了
+增加一个非admin日常用户
 
 ### Admin -> Configuration Settings
 
 常用的设置
 
-#### Advanced->Use nice URLs
+- Display->youarehere
+- Display->fullpath
+- Advanced->userewrite
+
+#### Advanced->userewrite
 
 - https://www.dokuwiki.org/rewrite
-- ...
+
+##### 设置apache2 rewrite
+
+    sig3@zpi:/etc/apache2 $ vim apache2.conf
+
+```
+164 <Directory /var/www/>
+165     Options Indexes FollowSymLinks
+-166     AllowOverride None
++166     AllowOverride All
+167     Require all granted
+168 </Directory>
+```
+
+    sig3@zpi:/etc/apache2 $ sudo a2enmod rewrite
+    sig3@zpi:/etc/apache2 $ sudo service apache2 restart
+
+## secure
+
+https://www.dokuwiki.org/security
+
+个人使用，我不是很在意这个告警
+
+## tips
+
+-  设置发布邮件提醒，会导致保存延迟。
