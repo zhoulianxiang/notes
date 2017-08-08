@@ -35,8 +35,15 @@ https://www.dokuwiki.org/install
 常用的设置
 
 - Display->youarehere
+    - enable
 - Display->fullpath
+    - enable
+- Advanced->fnencode
+    - utf-8
 - Advanced->userewrite
+    - .htaccess
+- Advanced->useslash
+    - enable
 
 #### Advanced->userewrite
 
