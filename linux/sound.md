@@ -1,0 +1,4 @@
+- sox
+  - sox yuwei.mp3 -n stat
+  - sox yuwei.mp3 yuwei0.mp3 trim 0 1012
+- lame
