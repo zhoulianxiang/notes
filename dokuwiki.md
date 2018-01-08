@@ -22,6 +22,10 @@ https://www.dokuwiki.org/install
 
 设置wiki，用默认设置即可
 
+## upgrade
+
+https://www.dokuwiki.org/zh:install:upgrade
+
 ## login
 
 用刚刚设置的管理员账号登录，开始设置
