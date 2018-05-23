@@ -31,3 +31,38 @@
 
 0. 软件架构师，程序员
 0. 工作时间较自由
+
+
+### Personal situation
+
+* Zhou Lianxiang, male, 19790407.
+* Mobile Phone: 13371864634
+* E-mail: zhoulianxiang@ustc.edu
+
+### Main Experience
+
+0. 1997.09-2002.07 University of Science and Technology of China, Department of Mathematics
+0. 2002.07-2004.13 Beijing Kangdazhuyou software Tech. Ltd, ERP System, programmer, PowerBuilder/Oracle
+0. 2005.01-2006.01 Shenzhen Jiuzhou Electron Co.,Ltd, set-top box, programmer, C
+0. 2006.02-2006.05 Shenzhen Tsinghua Research Institute, set-top box, programmer, C
+0. 2006.07-2008.12 Shanghai Huawei Terminal, Mobile Phone Driver, Programmer, C
+0. 2009.04-2015.09 Shanghai Spreadtrum, mobile platform GUI, programmer, C
+0. 2015.10-2016.10 Shanghai Hero Entertainment, Mobile Games Server, Programmer, C++
+0. 2016.12-2018.02 Shanghai MRobot, robot software, software architect, Python/ROS
+0. 2018.03-now Shanghai Institute of Microsatellite Innovation
+
+### Working Ability
+
+0. C Language - driver of Feature phone development, GUI of Feature phone platform development
+0. Perl - Develop mobile phone software to automatically compile and download verification project
+0. Python - Developing ROS Nodes in ROS
+0. Bash/Shell - Develop a complete mobile software compile and test project
+0. C++ - Migration of mobile game server from Windows to Linux
+0. Lua - developed a mobile game demo
+0. Oracle - Database design and coding
+0. ROS - Build robot software architecture based on ROS
+
+### Work intent
+
+0. Software Architect, Programmer
+0. Flexible job
