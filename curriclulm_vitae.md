@@ -37,7 +37,7 @@
     - C/ARM
     - programmer
     - GUI of feature phone platform
-    - In the team, everyone holded one or more modules, coding and fixing bugs by oneself. The extra bugs which could not impute to some modules or before them might impute to, them came to me, and if the one could not resolve in the last, it came to me again.
+    - In the team, everyone holded one or more modules, coding and fixing bugs by oneself. The extra bugs which could not impute to some modules or before them might impute to, them came to me, and if the one could not be resolved at the last, it came to me again.
     - In 2013, I taked part in the Spreadtrum's ffos(Firefox OS) project. I take responsibility for the android system, specifically, the kernel and the makefile scripts. The common works were debugging and fixing bugs.
 0. Jul 2006 - Dec 2008 Huawei Institute of Shanghai
     - C/ARM
