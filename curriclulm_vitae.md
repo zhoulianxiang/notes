@@ -23,20 +23,36 @@
 
 0. Mar 2018 - present Innovation Academy for Microstatellites Chinese Academy of Sciences
     - Python/PostgreSQL
+    - programmer
 0. Dec 2015 - Feb 2018 Shanghai Mrobot Tech. Ltd
     - C/C++/Python
+    - software architect
+    - robot software total solution
 0. Oct 2014 - Oct 2015 Shanghai Hero Entertainment
     - C++
+    - programmer
+    - Linux version of mobile games server 
 0. Apr 2009 - Sep 2014 Shanghai Spreadtrum
     - C
+    - programmer
+    - GUI of feature phone platform
 0. Jul 2006 - Dec 2008 Huawei Institute of Shanghai
     - C
+    - programmer
+    - Drivers of feature phone, such as LCD, FM, Bluetooth, Codec, etc.
+    - 
 0. Feb 2006 - May 2006 Shenzhen Tsinghua Research Institute
     - C
+    - programmer
+    - set-top box
 0. Jan 2005 - Jan 2006 Shenzhen Jiuzhou Electron Co.,Ltd
     - C
+    - programmer
+    - set-top box
 0. Jul 2002 - Dec 2004 Beijing Kangda Zhuyou software Tech. Ltd
     - Powerbuilder/Oracle
+    - programmer
+    - ERP software
 
 ### Technical Skills
 
