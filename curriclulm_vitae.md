@@ -7,7 +7,7 @@
 
 - address: Jiuting Songjiang Shanghai
 - e-mail: zhoulianxiang@ustc.edu
-- telephone 13371864634
+- telephone: 13371864634
 
 - date of birth: 7th April 1979
 - sex: male
